@@ -13,6 +13,11 @@
   color: white;
 }
 
+.App-logo {
+  height: 150px;
+  margin-bottom: 2rem;
+}
+
 .App-link {
   color: #61dafb;
 }
