@@ -1,6 +1,7 @@
 ## JimooSoftware Company Official Website
 
-
+## Contact Us Page
+All messages will be sent to the email address: jimoosoftware@gmail.com
 
 
 
