@@ -18,13 +18,11 @@ const Footer: FC = () => {
         </div>
         <div className="footer-section" style={{marginRight: "5rem"}}>
           <h3>Location</h3>
-          <p>142 Yellow Pine</p>
-          <p>Irvine, CA 92618</p>
+          <p>Irvine, CA, USA</p>
         </div>
         <div className="footer-section">
           <h3>Contact</h3>
           <p>jimoosoftware@gmail.com</p>
-          <p>(508) 723-5805</p>
         </div>
       </div>
     </footer>
