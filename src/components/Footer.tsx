@@ -18,7 +18,7 @@ const Footer: FC = () => {
         </div>
         <div className="footer-section" style={{marginRight: "5rem"}}>
           <h3>Location</h3>
-          <p>Irvine, CA, USA</p>
+          <p>Wyoming, USA</p>
         </div>
         <div className="footer-section">
           <h3>Contact</h3>
